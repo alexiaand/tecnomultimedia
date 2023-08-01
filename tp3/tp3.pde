@@ -1,7 +1,7 @@
 /* Alexia Anduaga. 94020/9.
 Video: https://drive.google.com/file/d/1IGfVTigNyzqJO0eCVqgd7oIf4GFk5ea5/view?usp=sharing 
-Tuve que guardarlo en Drive porque cuando lo quería subir a YouTube se quedaba en 90 y no se subía :) */
 
+Nuevo link: https://www.youtube.com/watch?v=A13hZqaygzs
 
 int pantalla;
 
