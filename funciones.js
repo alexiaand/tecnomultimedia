@@ -119,7 +119,7 @@ function resetGame(){
   velLoboXNivel4 = velLoboYNivel4 = 3.4;
 
     
-  pantalla = "ganaste";
+  pantalla = "inicio";
   }
   
   function preload(){
